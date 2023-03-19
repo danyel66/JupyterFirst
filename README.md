@@ -1,5 +1,5 @@
 # JupyterFirst 
-Uber is a popular ride-hailing service that generates a vast amount of data, which can be analyzed to gain insights into the behavior of passengers, drivers, and the company itself. In this report, we will explore how Uber data from Kaggle can be used for simple data visualization with Matplotlib.
+Uber is a popular ride-hailing service that generates a vast amount of data, which can be analyzed to gain insights into the behavior of passengers, drivers, and the company itself. In this report, we explore how Uber data from Kaggle will be used for simple data visualization with Matplotlib.
 
 Data Collection:
 We collected Uber data from Kaggle, a popular platform for sharing datasets. The dataset includes information about Uber pickups in New York City from April to September 2014. The data contains approximately 4.5 million rows and includes attributes such as pickup time, pickup location, and passenger count.
